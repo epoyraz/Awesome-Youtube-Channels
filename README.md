@@ -97,7 +97,7 @@
 * [Twitter Dev](https://www.youtube.com/channel/UCcRd4oOOUPKAvg6vs2P9ReA) - Official channel of Twitter Developers
 * [Meteor](https://www.youtube.com/channel/UC3fBiJrFFMhKlsWM46AsAYw) - Official channel of Meteor
 * [Twitter University](https://www.youtube.com/channel/UCeDh9omC_xMKrar2srQZiLg) - Offical channel of Twitter Talks
-* [NVIDEADeveloper](https://www.youtube.com/channel/UCBHcMCGaiJhv-ESTcWGJPcw) - Offical channel of NVIDEA Developers
+* [NVIDIADeveloper](https://www.youtube.com/channel/UCBHcMCGaiJhv-ESTcWGJPcw) - Offical channel of NVIDIA Developers
 * [Parse](https://www.youtube.com/channel/UCkdybh9vf7T7gR4dQPAVxpQ) - Official channel of Parse
 * [AngularJS](https://www.youtube.com/channel/UCbn1OgGei-DV7aSRo_HaAiw) - Official channel of AngularJS
 * [Yahoo Developer Network](https://www.youtube.com/channel/UC4MJvi5SyXYnoorWVBTFJKQ) - Official channel of Yahoo Developer Network
@@ -105,7 +105,7 @@
 * [Facebook Developers](https://www.youtube.com/channel/UCP_lo1MFyx5IXDeD9s_6nUw) - Official channel of Facebook Developers
 * [Google TechTalks](https://www.youtube.com/channel/UCtXKDgv1AVoG88PLl8nGXmw) - Official channel of Google TechTalks
 * [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw) - Official channel of Google Developers
-* [Android Developers](https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg) - 
+* [Android Developers](https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg) 
 
 ## Non-technical
 * [Nat and Lo](https://www.youtube.com/channel/UCf4AIjSwE-E2TggCPdm-z-A) - 2 Googlers exploring different Google Projects
