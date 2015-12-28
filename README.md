@@ -114,6 +114,7 @@
 * [Google TechTalks](https://www.youtube.com/channel/UCtXKDgv1AVoG88PLl8nGXmw) - Official channel of Google TechTalks
 * [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw) - Official channel of Google Developers
 * [Android Developers](https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg) 
+* [Mozilla Hacks](https://www.youtube.com/user/mozhacks/) - Official channel of Mozilla Hacks
 
 ## Non-technical
 * [Nat and Lo](https://www.youtube.com/channel/UCf4AIjSwE-E2TggCPdm-z-A) - 2 Googlers exploring different Google Projects
