@@ -7,6 +7,7 @@
 * [NewCircle Training](https://www.youtube.com/channel/UCkQX1tChV7Z7l1LFF4L9j_g)
 * [O'Reilly](https://www.youtube.com/channel/UC3BGlwmI-Vk6PWyMt15dKGw)
 * [LeWeb](https://www.youtube.com/channel/UCNFAw6P1oKse29MlbG2YkvA) 
+* [Strange Loop](https://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw) - Recordings of Strange Loop 2014/2015
 
 ## Specific Topics
 
