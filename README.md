@@ -59,6 +59,7 @@
 * [Paul Irish](https://www.youtube.com/channel/UCf7pOCNs6qmbSsBz2xQBI4g) - Google Chrome Developer
 * [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg) - JavaScript, PHP, SQL, HTML, CSS and more.
 * [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA) - JSConf
+* [Funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) - Front-end Dev , Vlogs (mostly) about Javascript
 
 ### Clojure
 * [ClojureTV](https://www.youtube.com/channel/UCaLlzGqiPE2QRj6sSOawJRg) - Clojure
