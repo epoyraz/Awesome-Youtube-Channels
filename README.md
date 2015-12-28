@@ -62,6 +62,9 @@
 ### Closure
 * [ClosureTV](https://www.youtube.com/channel/UCaLlzGqiPE2QRj6sSOawJRg) - Closure
 
+### Java
+* [JavaOne](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g) - JavaOne Conference
+
 ### Python 
 * [PyCon 2015](https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ)
 * [PyCon 2014](https://www.youtube.com/channel/UCFDHJGm0IxH9uwcIHfR72yg)
