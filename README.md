@@ -60,6 +60,7 @@
 * [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg) - JavaScript, PHP, SQL, HTML, CSS and more.
 * [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA) - JSConf
 * [Funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) - Front-end Dev , Vlogs (mostly) about Javascript
+* [Nodevember](https://www.youtube.com/user/nodevember) - Recordings of Nodevember 2014/2015
 
 ### Clojure
 * [ClojureTV](https://www.youtube.com/channel/UCaLlzGqiPE2QRj6sSOawJRg) - Clojure
