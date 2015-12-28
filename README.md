@@ -69,6 +69,8 @@
 
 ### Go
 * [Gopher Academy](https://www.youtube.com/channel/UCx9QVEApa5BKLw9r8cnOFEA) - Focused on the education of developers and the promotion of the Go programming language.
+* [Golang UK Conference](https://www.youtube.com/channel/UC9ZNrGdT2aAdrNbX78lbNlQ)
+* 
 
 ### Python 
 * [PyCon 2015](https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ)
@@ -123,6 +125,7 @@
 * [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw) - Official channel of Google Developers
 * [Android Developers](https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg) 
 * [Mozilla Hacks](https://www.youtube.com/user/mozhacks/) - Official channel of Mozilla Hacks
+* [The Go Programming Language](https://www.youtube.com/user/gocoding) - Official channel of Go
 
 ## Non-technical
 * [Nat and Lo](https://www.youtube.com/channel/UCf4AIjSwE-E2TggCPdm-z-A) - 2 Googlers exploring different Google Projects
