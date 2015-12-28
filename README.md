@@ -59,8 +59,8 @@
 * [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg) - JavaScript, PHP, SQL, HTML, CSS and more.
 * [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA) - JSConf
 
-### Closure
-* [ClosureTV](https://www.youtube.com/channel/UCaLlzGqiPE2QRj6sSOawJRg) - Closure
+### Clojure
+* [ClojureTV](https://www.youtube.com/channel/UCaLlzGqiPE2QRj6sSOawJRg) - Clojure
 
 ### Java
 * [JavaOne](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g) - JavaOne Conference
