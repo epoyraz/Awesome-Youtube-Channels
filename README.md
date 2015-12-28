@@ -100,6 +100,9 @@
 * [YAPC EU](https://www.youtube.com/user/yapceu) - Yet Another Perl Conference (Europe)
 * [YAPC Asia](https://www.youtube.com/user/yapcasia) - Yet Another Perl Conference (Asia)
 
+### Erlang
+ * [Erlang Solutions](https://www.youtube.com/user/ErlangSolutions)
+
 ##Official Channels of Software Companies or Software Tools
 
 * [NodeJS](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ) - Official channel of Node.js
