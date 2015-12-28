@@ -62,6 +62,9 @@
 ### Clojure
 * [ClojureTV](https://www.youtube.com/channel/UCaLlzGqiPE2QRj6sSOawJRg) - Clojure
 
+### Erlang
+* [Erlang Solutions](https://www.youtube.com/user/ErlangSolutions) - Erlang
+
 ### Java
 * [JavaOne](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g) - JavaOne Conference
 
