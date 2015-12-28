@@ -65,6 +65,9 @@
 ### Erlang
 * [Erlang Solutions](https://www.youtube.com/user/ErlangSolutions) - Erlang
 
+### Go
+* [Gopher Academy](https://www.youtube.com/channel/UCx9QVEApa5BKLw9r8cnOFEA) - Focused on the education of developers and the promotion of the Go programming language.
+
 ### Java
 * [JavaOne](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g) - JavaOne Conference
 
