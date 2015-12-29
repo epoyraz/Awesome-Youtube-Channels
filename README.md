@@ -8,6 +8,7 @@
 * [O'Reilly](https://www.youtube.com/channel/UC3BGlwmI-Vk6PWyMt15dKGw)
 * [LeWeb](https://www.youtube.com/channel/UCNFAw6P1oKse29MlbG2YkvA) 
 * [Strange Loop](https://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw) - Recordings of Strange Loop 2014/2015
+* [Association for Computing Machinery (ACM)](https://www.youtube.com/user/TheOfficialACM) - Recordings from ACM Conferences
 
 ## Specific Topics
 
