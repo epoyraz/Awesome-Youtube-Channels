@@ -72,7 +72,6 @@
 ### Go
 * [Gopher Academy](https://www.youtube.com/channel/UCx9QVEApa5BKLw9r8cnOFEA) - Focused on the education of developers and the promotion of the Go programming language.
 * [Golang UK Conference](https://www.youtube.com/channel/UC9ZNrGdT2aAdrNbX78lbNlQ)
-* 
 
 ### Python 
 * [PyCon 2015](https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ)
