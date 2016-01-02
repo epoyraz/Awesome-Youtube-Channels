@@ -41,6 +41,9 @@
 * [Brian Advent](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw) - Tutorials about iOS Apps in Swift
 * [Skip Wilson](https://www.youtube.com/channel/UCuD-wbMZDn2C2_GwcMqterg) - Tutorials about iOS Apps in Swift
 
+### Functional Programming
+* [LambdaConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
+
 ## Programming Languages
 
 ### HTML/CSS/Javascript
