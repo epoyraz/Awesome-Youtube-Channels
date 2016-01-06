@@ -16,6 +16,13 @@
 * [DEFCONConference](https://www.youtube.com/user/DEFCONConference)
 * [CCCen](https://www.youtube.com/user/CCCen) - Chaos Computer Club
 * [RSA Conference](https://www.youtube.com/user/RSAConference) - RSA Conference
+* [Black Hat](https://www.youtube.com/user/BlackHatOfficialYT) - Black Hat Conference
+
+### Linux
+* [Red Hat Summit](https://www.youtube.com/user/redhatsummit) - Red Hat Summit
+
+### Networking
+* [Open Networking Summit](https://www.youtube.com/user/OpenNetSummit) - Open Networking Summit
 
 ### Machine Learning
 * [BayLearn](https://www.youtube.com/channel/UCnf609gsCjoJd_GvQ31SFVA) - Bay Area Machine Learning Symposium
