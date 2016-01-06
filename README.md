@@ -15,6 +15,7 @@
 ### Computer Security
 * [DEFCONConference](https://www.youtube.com/user/DEFCONConference)
 * [CCCen](https://www.youtube.com/user/CCCen) - Chaos Computer Club
+* [RSA Conference](https://www.youtube.com/user/RSAConference) - RSA Conference
 
 ### Machine Learning
 * [BayLearn](https://www.youtube.com/channel/UCnf609gsCjoJd_GvQ31SFVA) - Bay Area Machine Learning Symposium
