@@ -12,6 +12,9 @@
 
 ## Specific Topics
 
+### Object-Oriented Programming
+* [ECOOP 2015](https://www.youtube.com/channel/UC5OwO4EbEskJKaDlQ3NE6ZA) - European Conference on Object-Oriented Programming 
+
 ### Computer Security
 * [DEFCONConference](https://www.youtube.com/user/DEFCONConference)
 * [CCCen](https://www.youtube.com/user/CCCen) - Chaos Computer Club
