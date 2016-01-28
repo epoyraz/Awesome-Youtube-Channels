@@ -110,6 +110,9 @@
 ### C++
 * [CppCon](https://www.youtube.com/channel/UCMlGfpWw-RUdWX_JbLCukXg) - Recordings of CppCon
 * [Meeting C++](https://www.youtube.com/user/MeetingCPP) - Recordings of Meeting C++ Conference
+* [BoostCon](https://www.youtube.com/user/BoostCon/videos) - Recordings of BoostCon
+
+
 ### PHP
 * [Codecourse](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA) - PHPacademy/Codecourse
 
