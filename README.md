@@ -16,7 +16,7 @@
 * [ECOOP 2015](https://www.youtube.com/channel/UC5OwO4EbEskJKaDlQ3NE6ZA) - European Conference on Object-Oriented Programming 
  
 ### Databases
-* [Jens Dittrich](https://www.youtube.com/channel/UCC9zrtAkl6yY4dpcnWrCHjA)
+* [Jens Dittrich](https://www.youtube.com/channel/UCC9zrtAkl6yY4dpcnWrCHjA) - Prof. Jens Dittrich talks about Databases
 
 ### Computer Security
 * [DEFCONConference](https://www.youtube.com/user/DEFCONConference)
