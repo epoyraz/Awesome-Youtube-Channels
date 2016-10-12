@@ -107,6 +107,13 @@
 * [PyCon Germany](https://www.youtube.com/channel/UCji5VWDkGzuRenyRQZ9OpFQ)
 * [Next Day Video](https://www.youtube.com/user/NextDayVideo/)
 
+### Ruby 
+
+* [RailsConf 2016](https://www.youtube.com/playlist?list=PLE7tQUdRKcyZGYLfj6oRQWPxB6ijg1YsC)
+* [RubyConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYqT3LHMg4iH270kfyENCpp)
+* [RubyConf 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYajZ5aZlJf1g2u5Boq-jic)
+* [RubyKaigi](https://www.youtube.com/channel/UCBSg5zH-VFJ42BGQFk4VH2A)
+
 ### Swift
 * [Swift Language](https://www.youtube.com/channel/UCml4lCH0xdl6Jm91RiPPIig) - Official channel of Swift
 
