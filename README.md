@@ -134,7 +134,7 @@
 ### Erlang
  * [Erlang Solutions](https://www.youtube.com/user/ErlangSolutions)
 
-##Official Channels of Software Companies or Software Tools
+## Official Channels of Software Companies or Software Tools
 
 * [NodeJS](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ) - Official channel of Node.js
 * [Spring Framework](https://www.youtube.com/channel/UC7yfnfvEUlXUIfm8rGLwZdA) - Offical channel of Spring
