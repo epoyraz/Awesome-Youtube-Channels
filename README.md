@@ -38,7 +38,7 @@
 ### Entreprenuer
 * [Google for Entrepreneurs](https://www.youtube.com/channel/UCkWLGZL69LhjjgGRKhcAE_w)
 * [Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg) - Recordings of Startup School 
-
+* [This week in startups](https://www.youtube.com/user/ThisWeekIn/featured) - Interviews of famous Silicon Valley founders and investors.
 ### App Development
 
 #### Android 
