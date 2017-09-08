@@ -161,3 +161,4 @@
 * [Nat and Lo](https://www.youtube.com/channel/UCf4AIjSwE-E2TggCPdm-z-A) - 2 Googlers exploring different Google Projects
 * [DLD Conference](https://www.youtube.com/channel/UCyJi3YHZPNkZGAYIix4FRLw)
 * [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
+* [The Accidental Engineer](https://www.youtube.com/channel/UCuavR8qKlFRApAOm1ci5NvQ) - Interviews with engineers about how they started their careers
