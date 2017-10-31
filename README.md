@@ -135,6 +135,9 @@
 ### Erlang
  * [Erlang Solutions](https://www.youtube.com/user/ErlangSolutions)
 
+### Various Languages
+ * [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw) - Introductory programming videos and tutorials.
+
 ## Official Channels of Software Companies or Software Tools
 
 * [NodeJS](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ) - Official channel of Node.js
