@@ -26,6 +26,7 @@
 
 ### Linux
 * [Red Hat Summit](https://www.youtube.com/user/redhatsummit) - Red Hat Summit
+* [CNCF](https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA) - CNCF, mostly Kubernetes related
 
 ### Networking
 * [Open Networking Summit](https://www.youtube.com/user/OpenNetSummit) - Open Networking Summit
