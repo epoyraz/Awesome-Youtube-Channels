@@ -35,6 +35,7 @@
 * [BayLearn](https://www.youtube.com/channel/UCnf609gsCjoJd_GvQ31SFVA) - Bay Area Machine Learning Symposium
 * [Dan Van Boxel](https://www.youtube.com/channel/UC6tnRFKGiq1DlybcqP5rZ7A) - Livecoding with python and tensorflow
 * [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg) - Hands on Tutorials about Machine Learning
+* [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg) - New papers covered in a short time and tutorials about machine learning basics
 
 ### Entreprenuer
 * [Google for Entrepreneurs](https://www.youtube.com/channel/UCkWLGZL69LhjjgGRKhcAE_w)
