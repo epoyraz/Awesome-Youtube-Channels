@@ -1,4 +1,6 @@
 ## General Tech Talks 
+* [Filipe Deschaps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw) - Concepts for begginers (in portuguese)
+* [Código Fonte TV](https://www.youtube.com/user/codigofontetv) - General programming concepts (in portuguese)
 * [GOTO Conferences](https://www.youtube.com/user/GotoConferences) - Recordings of GOTO Conferences
 * [O'Reilly Video Training](https://www.youtube.com/channel/UCFvbB4_qLYRrOQNuFudz-Mg)
 * [Codegram Technologies](https://www.youtube.com/channel/UCwoOpKfkyCQHW562hXXQAGg)  - Recordings from Full Stack Fest 2015, Future JS 2014 and Barcelona Ruby Conference 2012 - 2014
