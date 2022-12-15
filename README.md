@@ -161,6 +161,7 @@
 * [Mozilla Hacks](https://www.youtube.com/user/mozhacks/) - Official channel of Mozilla Hacks
 * [The Go Programming Language](https://www.youtube.com/user/gocoding) - Official channel of Go
 * [Docker](https://www.youtube.com/user/dockerrun) - Official channel of Docker
+* [JavaScript](https://www.youtube.com/@akshaymarch7/featured) - Official channel of Akshay March
 
 ## Non-technical
 * [Nat and Lo](https://www.youtube.com/channel/UCf4AIjSwE-E2TggCPdm-z-A) - 2 Googlers exploring different Google Projects
